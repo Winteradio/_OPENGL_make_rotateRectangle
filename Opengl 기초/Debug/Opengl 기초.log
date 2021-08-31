@@ -1,0 +1,14 @@
+﻿  소스.cpp
+C:\Users\겨울엔군고구마한잔\OneDrive - 한양대학교\바탕 화면\C++\Opengl 기초\Opengl 기초\소스.cpp(191,39): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\겨울엔군고구마한잔\OneDrive - 한양대학교\바탕 화면\C++\Opengl 기초\Opengl 기초\소스.cpp(192,40): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\겨울엔군고구마한잔\OneDrive - 한양대학교\바탕 화면\C++\Opengl 기초\Opengl 기초\소스.cpp(201,39): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\겨울엔군고구마한잔\OneDrive - 한양대학교\바탕 화면\C++\Opengl 기초\Opengl 기초\소스.cpp(202,40): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\겨울엔군고구마한잔\OneDrive - 한양대학교\바탕 화면\C++\Opengl 기초\Opengl 기초\소스.cpp(211,39): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\겨울엔군고구마한잔\OneDrive - 한양대학교\바탕 화면\C++\Opengl 기초\Opengl 기초\소스.cpp(212,40): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\겨울엔군고구마한잔\OneDrive - 한양대학교\바탕 화면\C++\Opengl 기초\Opengl 기초\소스.cpp(318,21): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\겨울엔군고구마한잔\OneDrive - 한양대학교\바탕 화면\C++\Opengl 기초\Opengl 기초\소스.cpp(322,21): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\겨울엔군고구마한잔\OneDrive - 한양대학교\바탕 화면\C++\Opengl 기초\Opengl 기초\소스.cpp(326,21): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\겨울엔군고구마한잔\OneDrive - 한양대학교\바탕 화면\C++\Opengl 기초\Opengl 기초\소스.cpp(330,21): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\겨울엔군고구마한잔\OneDrive - 한양대학교\바탕 화면\C++\Opengl 기초\Opengl 기초\소스.cpp(334,21): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\겨울엔군고구마한잔\OneDrive - 한양대학교\바탕 화면\C++\Opengl 기초\Opengl 기초\소스.cpp(338,21): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+  Opengl 기초.vcxproj -> C:\Users\겨울엔군고구마한잔\OneDrive - 한양대학교\바탕 화면\C++\Opengl 기초\Debug\Opengl 기초.exe
